@@ -6,7 +6,6 @@ Web Developer
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [portfolio](http://kripteks.github.io)
-* ✉️  You can contact me at [pz6m9gwbdf@privaterelay.appleid.com](mailto:pz6m9gwbdf@privaterelay.appleid.com)
 
 <a href="https://www.github.com/Kripteks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Kripteks?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
