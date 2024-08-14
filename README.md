@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/Kripteks?logo=github&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Kripteks/Maymuncuk-Sistemi" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kripteks&repo=Maymuncuk-Sistemi&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/Kripteks/KripteksSearch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kripteks&repo=KripteksSearch&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Kripteks/KripteksSearch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kripteks&repo=KripteksSearch&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
