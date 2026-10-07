@@ -65,10 +65,9 @@
 
 ### 📊 GitHub Activity & Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kripteks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kripteks's GitHub Stats" />
-  <img src="./github-metrics-languages.svg" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="./github-metrics.svg" alt="Kripteks's GitHub Metrics & Activity" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Kripteks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />

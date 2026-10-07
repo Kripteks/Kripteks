@@ -11,7 +11,7 @@ on:
       - ".github/workflows/metrics.yml"
 
 jobs:
-  languages-metrics:
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -24,20 +24,20 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Generate Languages Metrics SVG
+      - name: Generate Unified GitHub Metrics SVG
         env:
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: |
-          node .github/scripts/generate-languages.js
+          node .github/scripts/generate-metrics.js
 
       - name: Commit & Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-metrics-languages.svg
+          git add github-metrics.svg
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore(metrics): update languages metrics [skip ci]"
+            git commit -m "chore(metrics): update unified metrics dashboard [skip ci]"
             git push origin main
           fi
