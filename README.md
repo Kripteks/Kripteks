@@ -67,7 +67,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kripteks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kripteks's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kripteks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="./github-metrics-languages.svg" alt="Top Languages" />
 </div>
 
 <p align="center">
