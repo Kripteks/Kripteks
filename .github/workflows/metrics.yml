@@ -21,18 +21,21 @@ jobs:
           template: classic
           base: ""
           config_timezone: Europe/Istanbul
-          config_theme: tokyonight
           output_action: commit
           committer_branch: main
           committer_message: "chore(metrics): update languages metrics [skip ci]"
           filename: github-metrics-languages.svg
 
+          # Repository filtreleri: Sadece kendi repoların, ecvatoria ve AtlantisMP dahil
+          repositories_forks: no
+          repositories_affiliations: owner, collaborator, organization_member
+          users_ignored: EpicGames, Karaca-Tech
+
+          # Dil eklentisi ayarları
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_head: yes
-          plugin_languages_categories: markup, programming
+          plugin_languages_skipped: smf-forum
+          plugin_languages_categories: programming, markup
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_load: 400
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
