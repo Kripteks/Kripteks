@@ -7,10 +7,10 @@
   <a href="https://github.com/Kripteks">
     <img src="https://img.shields.io/github/followers/Kripteks?logo=github&style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="Followers" />
   </a>
-  <a href="http://kripteks.github.io">
+  <a href="https://kripteks-redirect.kripteks.workers.dev/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-kripteks.github.io-10b981?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0f172a" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/mucahid2eniz">
+  <a href="https://kripteks-redirect.kripteks.workers.dev/linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" />
   </a>
 </p>
@@ -78,9 +78,9 @@
 ### 🌐 Connect & Socials
 
 <p align="center">
-  <a href="https://discord.com/users/Kripteks"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://www.linkedin.com/in/mucahid2eniz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="http://www.medium.com/@Kripteks"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://www.youtube.com/@kripteks"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.buymeacoffee.com/kripteks"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+  <a href="https://kripteks-redirect.kripteks.workers.dev/discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://kripteks-redirect.kripteks.workers.dev/linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kripteks-redirect.kripteks.workers.dev/medium"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://kripteks-redirect.kripteks.workers.dev/youtube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://kripteks-redirect.kripteks.workers.dev/coffee"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
 </p>
