@@ -114,14 +114,14 @@
           <svg class="stat-icon" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.002 4.002 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
           <span class="stat-label">Total Commits</span>
         </div>
-        <span class="stat-val">626</span>
+        <span class="stat-val">636</span>
       </div>
       <div class="stat-row">
         <div class="stat-left">
           <svg class="stat-icon" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
           <span class="stat-label">Pull Requests</span>
         </div>
-        <span class="stat-val">48</span>
+        <span class="stat-val">50</span>
       </div>
       <div class="stat-row">
         <div class="stat-left">
@@ -158,14 +158,14 @@
   <!-- Language Progress Bar -->
   <g transform="translate(415, 48)" clip-path="url(#bar-clip)">
     <rect width="380" height="8" fill="#24283b"/>
-    <rect x="0.00" y="0" width="272.60" height="8" fill="#7355dd" rx="0"/>
-            <rect x="272.60" y="0" width="19.58" height="8" fill="#00ADD8" rx="0"/>
-            <rect x="292.18" y="0" width="19.29" height="8" fill="#3178c6" rx="0"/>
-            <rect x="311.47" y="0" width="17.71" height="8" fill="#663399" rx="0"/>
-            <rect x="329.18" y="0" width="15.03" height="8" fill="#41b883" rx="0"/>
-            <rect x="344.21" y="0" width="9.73" height="8" fill="#4F5D95" rx="0"/>
-            <rect x="353.94" y="0" width="6.56" height="8" fill="#222c37" rx="0"/>
-            <rect x="360.50" y="0" width="5.27" height="8" fill="#f7523f" rx="0"/>
+    <rect x="0.00" y="0" width="276.64" height="8" fill="#7355dd" rx="0"/>
+            <rect x="276.64" y="0" width="18.60" height="8" fill="#00ADD8" rx="0"/>
+            <rect x="295.24" y="0" width="18.32" height="8" fill="#3178c6" rx="0"/>
+            <rect x="313.56" y="0" width="17.09" height="8" fill="#663399" rx="0"/>
+            <rect x="330.65" y="0" width="14.28" height="8" fill="#41b883" rx="0"/>
+            <rect x="344.93" y="0" width="9.24" height="8" fill="#4F5D95" rx="0"/>
+            <rect x="354.18" y="0" width="6.23" height="8" fill="#222c37" rx="0"/>
+            <rect x="360.41" y="0" width="5.01" height="8" fill="#f7523f" rx="0"/>
   </g>
 
   <!-- Languages List (2 columns) -->
@@ -180,8 +180,8 @@
             C#
           </div>
           <div class="lang-meta">
-            <span class="lang-size">3.96 MB</span>
-            <span class="lang-pct">71.74%</span>
+            <span class="lang-size">4.23 MB</span>
+            <span class="lang-pct">72.80%</span>
           </div>
         </div>
 
@@ -192,7 +192,7 @@
           </div>
           <div class="lang-meta">
             <span class="lang-size">286.7 kB</span>
-            <span class="lang-pct">5.08%</span>
+            <span class="lang-pct">4.82%</span>
           </div>
         </div>
 
@@ -203,7 +203,7 @@
           </div>
           <div class="lang-meta">
             <span class="lang-size">223.4 kB</span>
-            <span class="lang-pct">3.96%</span>
+            <span class="lang-pct">3.76%</span>
           </div>
         </div>
 
@@ -214,7 +214,7 @@
           </div>
           <div class="lang-meta">
             <span class="lang-size">97.4 kB</span>
-            <span class="lang-pct">1.73%</span>
+            <span class="lang-pct">1.64%</span>
           </div>
         </div>
         </div>
@@ -227,7 +227,7 @@
           </div>
           <div class="lang-meta">
             <span class="lang-size">291.0 kB</span>
-            <span class="lang-pct">5.15%</span>
+            <span class="lang-pct">4.90%</span>
           </div>
         </div>
 
@@ -237,8 +237,8 @@
             CSS
           </div>
           <div class="lang-meta">
-            <span class="lang-size">263.1 kB</span>
-            <span class="lang-pct">4.66%</span>
+            <span class="lang-size">267.3 kB</span>
+            <span class="lang-pct">4.50%</span>
           </div>
         </div>
 
@@ -249,7 +249,7 @@
           </div>
           <div class="lang-meta">
             <span class="lang-size">144.6 kB</span>
-            <span class="lang-pct">2.56%</span>
+            <span class="lang-pct">2.43%</span>
           </div>
         </div>
 
@@ -260,7 +260,7 @@
           </div>
           <div class="lang-meta">
             <span class="lang-size">78.3 kB</span>
-            <span class="lang-pct">1.39%</span>
+            <span class="lang-pct">1.32%</span>
           </div>
         </div>
         </div>
